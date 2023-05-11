@@ -1,1 +1,1 @@
-# wikisql app
+# wikisql service
